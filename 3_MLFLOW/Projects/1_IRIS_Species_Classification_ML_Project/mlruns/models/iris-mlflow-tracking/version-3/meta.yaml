@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1736117149268
+current_stage: None
+description: ''
+last_updated_timestamp: 1736117149268
+name: iris-mlflow-tracking
+run_id: 608e30a5013a42a78cc2d16d04599b69
+run_link: ''
+source: mlflow-artifacts:/963168682201194683/608e30a5013a42a78cc2d16d04599b69/artifacts/iris_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/963168682201194683/608e30a5013a42a78cc2d16d04599b69/artifacts/iris_model
+user_id: null
+version: 3

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/963168682201194683/8cf9c076e29a48bdb1965ec7edd866bb/artifacts
+deleted_time: 1736116997361
+end_time: 1736116939058
+entry_point_name: ''
+experiment_id: '963168682201194683'
+lifecycle_stage: deleted
+run_id: 8cf9c076e29a48bdb1965ec7edd866bb
+run_name: luminous-mole-1000
+run_uuid: 8cf9c076e29a48bdb1965ec7edd866bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736116934173
+status: 3
+tags: []
+user_id: pc

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/963168682201194683/608e30a5013a42a78cc2d16d04599b69/artifacts
+end_time: 1736117149306
+entry_point_name: ''
+experiment_id: '963168682201194683'
+lifecycle_stage: active
+run_id: 608e30a5013a42a78cc2d16d04599b69
+run_name: grandiose-foal-717
+run_uuid: 608e30a5013a42a78cc2d16d04599b69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736117143798
+status: 3
+tags: []
+user_id: pc
