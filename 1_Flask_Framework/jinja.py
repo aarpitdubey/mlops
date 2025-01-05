@@ -8,7 +8,7 @@
 {#...#} this is for comments
 '''
 
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, redirect, url_for
 
 '''
  It creates an instance of he flask class,
@@ -26,12 +26,12 @@ def home():
 def about():
     return render_template('about.html')
 
-@app.route('/submit', methods=['GET', 'POST'])
-def submit():
-    if request.method == 'POST':
-        name = request.form.get('name')
-        return f'Hello, {name}!'
-    return render_template('form.html')
+# @app.route('/submit', methods=['GET', 'POST'])
+# def submit():
+#     if request.method == 'POST':
+#         name = request.form.get('name')
+#         return f'Hello, {name}!'
+#     return render_template('form.html')
 
 
 @app.route('/success/<int:score>')
@@ -63,6 +63,24 @@ def successs(score):
 def successif(score):
     
     return render_template('result.html', result=score)
+
+@app.route('/submit', methods=['GET', 'POST'])
+def submit():
+    
+    total_score=0
+    
+    if request.method == 'POST':
+        science=float(request.form['science'])
+        maths=float(request.form['maths'])
+        c=float(request.form['c'])
+        data_science=float(request.form['datascience'])
+        
+        total_score=(science+maths+c+data_science)/4
+    else:
+        return render_template('getresult.html')
+        
+    return redirect(url_for('successs', score=total_score))
+
 
 if __name__=="__main__":
     app.run(debug=True)
