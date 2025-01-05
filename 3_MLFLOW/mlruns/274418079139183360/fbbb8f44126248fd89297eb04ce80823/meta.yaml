@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/274418079139183360/fbbb8f44126248fd89297eb04ce80823/artifacts
+end_time: 1736106896677
+entry_point_name: ''
+experiment_id: '274418079139183360'
+lifecycle_stage: active
+run_id: fbbb8f44126248fd89297eb04ce80823
+run_name: thoughtful-tern-85
+run_uuid: fbbb8f44126248fd89297eb04ce80823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736106896582
+status: 3
+tags: []
+user_id: pc
