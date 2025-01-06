@@ -1,5 +1,6 @@
-aliases: {}
-creation_timestamp: 1736115347234
+aliases:
+  bestmodel: '2'
+creation_timestamp: 1736144666993
 description: ''
-last_updated_timestamp: 1736117149268
+last_updated_timestamp: 1736146372640
 name: iris-mlflow-tracking

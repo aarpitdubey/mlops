@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455017768261018338/fe48936dfce144fdbe4c0a4c3f7362a3/artifacts
+end_time: 1736144667059
+entry_point_name: ''
+experiment_id: '455017768261018338'
+lifecycle_stage: active
+run_id: fe48936dfce144fdbe4c0a4c3f7362a3
+run_name: invincible-hen-502
+run_uuid: fe48936dfce144fdbe4c0a4c3f7362a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736144661166
+status: 3
+tags: []
+user_id: pc

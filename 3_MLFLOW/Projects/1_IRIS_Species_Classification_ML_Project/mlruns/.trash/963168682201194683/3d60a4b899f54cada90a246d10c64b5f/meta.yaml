@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/963168682201194683/3d60a4b899f54cada90a246d10c64b5f/artifacts
+deleted_time: 1736144444118
 end_time: 1736115347305
 entry_point_name: ''
 experiment_id: '963168682201194683'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3d60a4b899f54cada90a246d10c64b5f
 run_name: marvelous-pug-471
 run_uuid: 3d60a4b899f54cada90a246d10c64b5f

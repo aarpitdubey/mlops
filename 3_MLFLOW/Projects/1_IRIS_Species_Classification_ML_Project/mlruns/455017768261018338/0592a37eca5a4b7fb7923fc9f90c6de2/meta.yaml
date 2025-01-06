@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455017768261018338/0592a37eca5a4b7fb7923fc9f90c6de2/artifacts
+end_time: 1736145557970
+entry_point_name: ''
+experiment_id: '455017768261018338'
+lifecycle_stage: active
+run_id: 0592a37eca5a4b7fb7923fc9f90c6de2
+run_name: placid-ant-860
+run_uuid: 0592a37eca5a4b7fb7923fc9f90c6de2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736145554258
+status: 3
+tags: []
+user_id: pc

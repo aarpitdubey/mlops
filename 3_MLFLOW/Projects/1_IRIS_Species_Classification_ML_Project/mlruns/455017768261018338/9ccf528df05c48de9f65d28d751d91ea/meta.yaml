@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455017768261018338/9ccf528df05c48de9f65d28d751d91ea/artifacts
+end_time: 1736144686811
+entry_point_name: ''
+experiment_id: '455017768261018338'
+lifecycle_stage: active
+run_id: 9ccf528df05c48de9f65d28d751d91ea
+run_name: mercurial-hen-385
+run_uuid: 9ccf528df05c48de9f65d28d751d91ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736144683280
+status: 3
+tags: []
+user_id: pc

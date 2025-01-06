@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/963168682201194683/608e30a5013a42a78cc2d16d04599b69/artifacts
+deleted_time: 1736144444118
 end_time: 1736117149306
 entry_point_name: ''
 experiment_id: '963168682201194683'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 608e30a5013a42a78cc2d16d04599b69
 run_name: grandiose-foal-717
 run_uuid: 608e30a5013a42a78cc2d16d04599b69
